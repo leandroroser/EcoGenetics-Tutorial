@@ -261,6 +261,7 @@ creating an object named “eco.temp” it works as follows:
 
   
  The available methods for the objects are:  
+ 
 **Subsetting**
 
     eco.sub <- eco[1:50]
