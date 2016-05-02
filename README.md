@@ -35,8 +35,6 @@ the following command:
 
 ![](Tutorial_files/figure-markdown_strict/unnamed-chunk-4-1.png)
 
-    ## Warning in grid.newpage(): processing of the plot ran out of memory
-
 ![](Tutorial_files/figure-markdown_strict/unnamed-chunk-4-2.png)
 
 We extract some of the data included of the plot output
